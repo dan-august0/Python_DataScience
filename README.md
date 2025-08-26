@@ -1,17 +1,56 @@
-# Python_DataScience
+# Atividades em Python com Dataset
 
-Análise de dados do conjunto de dados Pizza Place Sales utilizando Google Colab.
+Este repositório contém exercícios e práticas de Python aplicadas a análise de dados.
+O objetivo é desenvolver habilidades em manipulação, exploração e visualização de dados, utilizando bibliotecas fundamentais para Data Science.
 
-📊 Descrição
+<b>📂 Estrutura da Pasta</b>
 
-Este repositório contém notebooks Jupyter que demonstram a análise exploratória e visualização de dados do conjunto de dados Pizza Place Sales. O objetivo é aplicar técnicas de ciência de dados para entender padrões de vendas e tomar decisões informadas.
+"nome das atidiade"/ → Códigos em Python para a analise do tema.
 
-🧪 Tecnologias Utilizadas
+README.md → Documentação do projeto.
 
-Python: Linguagem principal para análise de dados.
+<b>🚀 Tecnologias Utilizadas</b>
 
-Pandas: Manipulação e análise de dados.
+Python 3
 
-Matplotlib & Seaborn: Visualização de dados.
+Pandas → Manipulação e análise de dados
 
-Google Colab: Ambiente interativo para execução dos notebooks.
+NumPy → Operações matemáticas e estatísticas
+
+Matplotlib / Seaborn → Visualização de dados
+
+Jupyter Notebook → Ambiente de testes e estudos
+
+<b>📊 Conteúdo das Atividades</b>
+
+Leitura e exploração de datasets
+
+Tratamento de valores ausentes (NaN)
+
+Estatísticas descritivas (média, mediana, desvio padrão, etc.)
+
+Agrupamentos e operações com groupby
+
+Visualizações gráficas (distribuições, comparações, dispersão)
+
+Insights obtidos a partir dos dados
+
+<b>📝 Como Executar</b>
+
+Clone este repositório:
+
+git clone https://github.com/seu-usuario/seu-repo.git
+
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+
+Abra os notebooks:
+
+jupyter notebook
+
+<b>🎯 Objetivo</b>
+
+Praticar conceitos de análise de dados e consolidar o uso de ferramentas do ecossistema Python voltadas para Data Science.
