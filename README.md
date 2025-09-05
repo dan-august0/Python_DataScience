@@ -5,7 +5,7 @@ O objetivo é desenvolver habilidades em manipulação, exploração e visualiza
 
 <b>📂 Estrutura da Pasta</b>
 
-"nome das atidiade"/ → Códigos em Python para a analise do tema.
+"nome das atividades"/ → Códigos em Python para a analise do tema.
 
 README.md → Documentação do projeto.
 
